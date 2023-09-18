@@ -1,5 +1,4 @@
 ## Vizija projekta RuDok
-<img src="images/paper%20logo%20png.png" width="150">
 
 #### 1.	Uvod
 Problem rukovanja dokumentima je u današnje vreme izuzetno univerzalan. Na jednoj strani imamo veliki broj kompanija i ustanova koje još uvek funkcionišu s upotrebom papirnih dokumenata, ali je njihova delatnost baš zbog toga vrlo neefikasna i posledično znatno lošija od onoga kakva bi mogla da bude. Na drugoj strani imamo poslovne entitete koji su već prešli na digitalno rukovanje dokumentima, ali njihov softver nije dovoljno dobar da bi na zadovoljavajući način pomogao u rešavanju problema i zato opet dolazi do nepotrebnog gubljenja vremena i novca.
